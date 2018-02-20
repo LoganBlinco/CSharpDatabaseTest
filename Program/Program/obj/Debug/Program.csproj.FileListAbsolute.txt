@@ -1,0 +1,7 @@
+X:\Codes\Github\CSharpDatabaseTest\Program\Program\bin\Debug\Program.exe.config
+X:\Codes\Github\CSharpDatabaseTest\Program\Program\bin\Debug\Program.exe
+X:\Codes\Github\CSharpDatabaseTest\Program\Program\bin\Debug\Program.pdb
+X:\Codes\Github\CSharpDatabaseTest\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+X:\Codes\Github\CSharpDatabaseTest\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+X:\Codes\Github\CSharpDatabaseTest\Program\Program\obj\Debug\Program.exe
+X:\Codes\Github\CSharpDatabaseTest\Program\Program\obj\Debug\Program.pdb
